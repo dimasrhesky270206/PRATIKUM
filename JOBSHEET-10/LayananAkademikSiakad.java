@@ -17,7 +17,7 @@ public class LayananAkademikSiakad {
             System.out.println("0. Keluar");
             System.out.print("Pilihan: ");
             pilihan = sc.nextInt();
-            sc.nextLine(); // buffer
+            sc.nextLine(); 
 
             switch (pilihan) {
                 case 1:
