@@ -1,5 +1,9 @@
-package JOBSHEET-11;
+public class NodeMahasiswa06 {
+    Mahasiswa06 data;
+    NodeMahasiswa06 next;
 
-Public class NodeMahasiswa06 {
-    
+    public NodeMahasiswa06 (Mahasiswa06 data, NodeMahasiswa06 next) {
+        this.data = data;
+        this.next = next;
+    }
 }
