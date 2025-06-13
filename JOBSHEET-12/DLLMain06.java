@@ -11,16 +11,8 @@ public class DLLMain06 {
             System.out.println("3. Hapus di awal ");
             System.out.println("4. Hapus di akhir");
             System.out.println("5. Tampilkan data");
-            System.out.println("6. Cari Mahasiswa berdasarkan NIM");
-            System.out.println("7. Tambah setelah NIM yang diinginkan");
-            System.out.println("8. Tambah sesuai index");
-            System.out.println("9. Hapus setelah NIM yang diinginkan");
-            System.out.println("10. Hapus sesuai index");
-            System.out.println("11. Tampilkan data pertama");
-            System.out.println("12. Tampilkan data terakhir");
-            System.out.println("13. Tampilkan data sesuai index");
-            System.out.println("14. Tampilkan jumlah data");
-            System.out.println("0. keluar");
+            System.out.println("7. Tambahkan setelah mahasiswa x :");
+            System.out.println("0.keluar");
             System.out.print("Pilih Menu : ");
             pilihan = scan.nextInt();
             scan.nextLine();
